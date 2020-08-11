@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('android_ekyc_sdk_v2.5.3.aar'))
