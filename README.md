@@ -1,3 +1,5 @@
+**QUICK START**<br/>
+
 Support **minSdkVersion 16** <br/>
 **Integration Steps**
 1. Adding the SDK to your project
