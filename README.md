@@ -28,7 +28,8 @@ Support **minSdkVersion 16** <br/>
 	        //add this to implement sdk module
 	        implementation project(':<subproject name>')
 	    }
-
+- Note: If you run app on Android 10, add the following line to your tag <application> in Android Manifest to fix bugs about storage.
+	android:requestLegacyExternalStorage="true"
 2. Start example full flow
 
 - Call to start full flow:
